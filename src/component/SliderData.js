@@ -1,0 +1,27 @@
+// export default [
+//     {
+//         id:'1',
+//         title:'Intro1',
+//         image:require('../../assets/Images/Intro1.jpg'),
+//     },
+//     {
+//         id:'2',
+//         title:'Intro2',
+//         image:require('../../assets/Images/Intro2.jpg'),
+//     },
+//     {
+//         id:'3',
+//         title:'Intro3',
+//         image:require('../../assets/Images/Intro3.jpg'),
+//     },
+//     {
+//         id:'4',
+//         title:'Intro4',
+//         image:require('../../assets/Images/Intro4.jpg'),
+//     },
+//     {
+//         id:'5',
+//         title:'Intro5',
+//         image:require('../../assets/Images/Intro5.jpg'),
+//     },
+// ];
